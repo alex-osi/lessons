@@ -1,0 +1,26 @@
+body
+{
+    background: #333;
+}
+
+#gameName
+{
+    color: #ffffff;
+    font-family: "Courier New";
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+}
+
+#map
+{
+    display: block;
+    background: #ffffff;
+    margin: 50px auto 0px;
+}
+
+#player
+{
+    display: block;
+    margin: -500px auto 0px;
+}
